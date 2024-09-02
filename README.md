@@ -1,7 +1,7 @@
 ## Tableau Reports 📊
 
 A showcase of selected Tableau reports and analytics projects. The reports are designed to demonstrate the application of advanced analytics and BI techniques using Tableau to derive actionable business insights.
-The live dashboards can be accessed on [Tableau Public](https://public.tableau.com/app/profile/amr.achraf/vizzes), and the workbooks & dummy data used is available on [GitHub](https://github.com/amr-sheriff/tableau-reports).
+The live dashboards can be accessed on [Tableau Public](https://public.tableau.com/app/profile/amr.achraf/vizzes).
 
 ## GMV Dynamics Example 📊
 
